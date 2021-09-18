@@ -11,3 +11,5 @@
 <p align="center">
 <a href="https://discord.com/users/873182701061021696" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/MrBaskan" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/873182701061021696?theme=dark&bg=111111&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/873182701061021696)
