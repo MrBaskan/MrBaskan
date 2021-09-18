@@ -12,4 +12,9 @@
 <a href="https://discord.com/users/873182701061021696" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://github.com/MrBaskan" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/873182701061021696?theme=dark&bg=111111&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/873182701061021696)
+<p align="center">
+  <a>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrBaskan&show_icons=true&theme=slateorange&include_all_commits=true&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrBaskan&layout=compact&langs_count=8&title_color=faa627&icon_color=faa627&text_color=ffffff&bg_color=36393f00">
+  </a>
+</p>
